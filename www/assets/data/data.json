@@ -1,0 +1,457 @@
+{
+
+"schedule": [
+    {
+      "date": "2047-05-17",
+      "groups": [
+        {
+          "time": "Dia 23 de novembro (Quarta-Feira)",
+          "sessions": [
+            {
+              "name": "Credenciamento",
+              "timeStart": "19:00",
+              "timeEnd": "20:00",
+              "location": "Auditório Thomaz Nicoletti",
+			  "description": "",
+              "speakerNames": ["Ted Turtle"],
+              "tracks": ["Tooling"]
+            },
+			{
+              "name": "Oficina - Cubo mágico",
+              "timeStart": "19:30",
+              "timeEnd": "22:30",
+			  "description": "Inspirando-se em uma oficina realizada em 2011 na X Semana de Matemática da UENP/Campus Jacarezinho, esse Minicurso tem por objetivo mostrar um algoritmo pronto na prática e tornar qualquer um capaz de solucionar o Cubo Mágico de forma divertida e dinâmica.",
+              "location": "Sala 33",
+              "tracks": ["Design"]
+            },
+			{
+              "name": "Minicurso 1 - Desenvolvimento de aplicativos para Android",
+              "timeStart": "19:30",
+              "timeEnd": "22:30",
+			  "speakerNames": ["Bruno M. N. de Souza"],
+			  "description": "Desenvolvimento de aplicativos para Android. Histórico do Android e suas versões; Estrutura de um aplicativo Android e arquivos de configuração; Desenvolvimento de uma aplicação básica.",
+              "location": "Lab 3 Informática",
+              "tracks": ["Workshop"]
+            }
+          ]
+        },
+        {
+          "time": "Dia 24 de novembro (Quinta-Feira)",
+          "sessions": [
+            {
+              "name": "Minicurso 2 - Programação Matemática utilizando OPL (Parte 1)",
+              "location": "Lab 2 Informática",
+              "description": "O minicurso de Programação Matemática utilizando OPL tem por objetivo fornecer os conceitos iniciais de otimização e será ministrado com o auxílio da linguagem de modelagem OPL do software IBM ILOG CPLEX.",
+              "speakerNames": ["Tamara A. Baldo"],
+              "timeStart": "8:30",
+              "timeEnd": "12:00",
+              "tracks": ["Workshop"]
+            },
+            {
+              "name": "Minicurso 3 - Aprendizadode Máquina: aprendendo a ensinar seu computador (Parte 1)",
+              "location": "Lab 3 Informática",
+              "description": "Este minicurso tem como objetivo apresentar os conceitos introdutórios e essenciais dessa área aosalunos de graduação e, utilizando tal conhecimento adquirido, possibilitar que se aprofundem emnovas abordagens. Além disso, esperase que os alunos tenham o contato prático com algumastécnicas amplamente conhecidas na área.",
+              "speakerNames": ["Bruno Faiçal"],
+              "timeStart": "8:30",
+              "timeEnd": "12:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Minicurso 4 - Introdução ao .NET (Parte 1)",
+              "location": "Lab 3 Informática",
+              "description": "A programação do minicurso consiste em: Visão geral da Plataforma .NET e .NET Core; Introdução à linguagem C# (C Sharp); Orientação a objetos com C#; Criação de aplicações multiplataforma com C# e Visual Studio Code",
+              "speakerNames": ["Wellington Della Mura"],
+              "timeStart": "13:30",
+              "timeEnd": "17:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Minicurso 5 - Escrevendo Trabalhos Acadêmicos com Latex (Parte 1)",
+              "location": "Lab 2 Informática",
+              "description": "Este minicurso, tem o objetivo de apresentar os conceitos básicosdo Latex, partindo dos elementos essenciais de sua sintaxe, após isso, a estruturados documentos, criação do seu primeiro documento, criando comandos, ambientematemático, construindo grafos com latex, inserindo códigos de uma linguagem deprogramação em seu artigo, gerando referências, construindo slides com o Beamere editando templates de revistas, eventos e TCC.",
+              "speakerNames": ["Erikson J. de Aguiar"],
+              "timeStart": "13:30",
+              "timeEnd": "17:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Workshop - Competências, Habilidades e Atitudes dos Profissionais de TI O que as empresas esperam desses profissionais?",
+              "location": "Lab 4 Informática",
+              "description": "O objetivo deste workshop é mostrar o que as empresas esperam, atualmente, de um profissional de TI. Desta forma, abordaremos os seguintes tópicos: Por onde, como e onde começar a ser um profissional de sucesso em TI?; Existe crise na área de Tecnologia da Informação?; O conhecimento técnico e comportamental; A construção do curriculum ao longo da carreira; Características desejáveis do profissional de TI; Etapas no processo de seleção de profissionais de TI; As dinâmicas de grupo; Relatos recentes de candidatos às vagas em pequenas e grandes empresas de TI.",
+              "speakerNames": ["Juliana Ferri"],
+              "timeStart": "9:30 am",
+              "timeEnd": "9:45 am",
+              "tracks": ["Design"]
+            },
+			{
+              "name": "Credenciamento",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Alguem"],
+              "timeStart": "19:00 am",
+              "timeEnd": "20:00 am",
+              "tracks": ["Tooling"]
+            },
+			{
+              "name": "Abertura do IX SITe",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "Abertura Oficial do Evento IX SITE",
+              "speakerNames": ["Alguem"],
+              "timeStart": "20:00",
+              "timeEnd": "20:15 am",
+              "tracks": ["Tooling"]
+            },
+			{
+              "name": "Palestra 1 - Carreira: uma escolha sem fórmulas",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Giovani B. Penha"],
+              "timeStart": "20:15",
+              "timeEnd": "21:15",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Coffee break",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "Pausa para Coffee Break",
+              "speakerNames": ["Alguem"],
+              "timeStart": "21:15",
+              "timeEnd": "21:30",
+              "tracks": ["Tooling"]
+            },
+            {
+              "name": "Palestra 2 - Microsoft Open Source – Como a Microsoft tem contribuído para o mundo open Source",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "",
+              "speakerNames": ["Carlos dos Santos"],
+              "timeStart": "21:30",
+              "timeEnd": "22:40",
+              "tracks": ["Communication"]
+            }
+          ]
+        },
+        {
+          "time": "Dia 25 de novembro (Sexta-Feira)",
+          "sessions": [
+            {
+              "name": "Minicurso 6 - Banco de Dados Não Relacional com MongoDB",
+              "location": "Lab 4 Informática",
+              "description": "Este minicurso tem como objetivos: apresentar o conceito básico de banco dedados não relacional, apresentar as operações básicas de um CRUD utilizando MongoDB.",
+              "speakerNames": ["Thiago Coleti"],
+              "timeStart": "08:30",
+              "timeEnd": "12:00",
+              "tracks": ["Workshop"]
+            },
+            {
+              "name": "Minicurso 2 - Programação Matemática utilizando OPL (Parte 2)",
+              "location": "Lab 2 Informática",
+              "description": "Sequencia do curso Programação Matemática utilizando OPL",
+              "speakerNames": ["Tamara A. Baldo"],
+              "timeStart": "08:30",
+              "timeEnd": "12:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Minicurso 3 - Aprendizado de Máquina: aprendendo a ensinar seu computador (Parte 2)",
+              "location": "Lab 3 Informática",
+              "description": "Sequencia do curso - Aprendizado de Máquina: aprendendo a ensinar seu computador",
+              "speakerNames": ["Bruno Faiçal"],
+              "timeStart": "08:30",
+              "timeEnd": "12:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Minicurso 4 - Introdução ao .NET (Parte 2)",
+              "location": "Lab 3 Informática",
+              "description": "Sequencia do curso - Introdução ao .NET",
+              "speakerNames": ["Wellington Della Mura"],
+              "timeStart": "13:30",
+              "timeEnd": "17:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Minicurso 5 - Escrevendo Trabalhos Acadêmicos com Latex (Parte 2)",
+              "location": "Lab 2 Informática",
+              "description": "Sequencia do curso - Escrevendo Trabalhos Acadêmicos com Latex",
+              "speakerNames": ["Erikson J. de Aguiar"],
+              "timeStart": "13:30",
+              "timeEnd": "17:00",
+              "tracks": ["Workshop"]
+            },
+			{
+              "name": "Palestra 3 - Gryphon Knight Epic Post Mortem",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Sandro Tomasetti"],
+              "timeStart": "20:15",
+              "timeEnd": "21:30",
+              "tracks": ["Communication"]
+            },
+            {
+              "name": "Coffee break",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "timeStart": "21:15",
+              "timeEnd": "21:30",
+              "tracks": ["Tooling"]
+            },
+			{
+              "name": "Palestra 4 - A importância da Auditoria no Ambiente de Tecnologia da Informação",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Amanda Pinheiro"],
+              "timeStart": "21:30",
+              "timeEnd": "22:40",
+              "tracks": ["Communication"]
+            }
+          ]
+        },
+        {
+          "time": "Dia 26 de novembro (Sabado)",
+          "sessions": [
+            {
+              "name": "Keynote Quem conhece o GDG? (falar sobre o gdgsp)",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "",
+              "speakerNames": ["Fernando Rychlewski"],
+              "timeStart": "09:00",
+              "timeEnd": "10:40",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Palestra 5 - Progressive Web APPs",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Benedito Batista"],
+              "timeStart": "9:40",
+              "timeEnd": "10:40",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Coffee Break",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": [" "],
+              "timeStart": "10:40",
+              "timeEnd": "11:00",
+              "tracks": ["Tooling"]
+            },
+			{
+              "name": "Palestra 6 - Tecnologia Negócio = Startup",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Rogerio Melfi"],
+              "timeStart": "11:00",
+              "timeEnd": "12:00",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Palestra 7 - A História da Realidade Virtual e Por Onde Começar",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Fernando Rychlewski"],
+              "timeStart": "13:30",
+              "timeEnd": "14:30",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Palestra 8 - Microservices e A Morte Dos Monolitos",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Fernando Rychlewski"],
+              "timeStart": "14:30",
+              "timeEnd": "15:30",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Palestra 9 - Codelab Firebase: Build a Real Time Web Chat App",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Benedito Batista"],
+              "timeStart": "15:30",
+              "timeEnd": "16:30",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Coffee break / Network",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": [""],
+              "timeStart": "16:30",
+              "timeEnd": "17:00",
+              "tracks": ["Communication"]
+            },
+			{
+              "name": "Mesa redonda Tema: Inovação e Tecnologia",
+              "location": "Auditório Thomaz Nicoletti",
+              "description": "TEXTO",
+              "speakerNames": ["Benedito Batista", "Fernando Rychlewski", "Rogerio Melfi", "Thiago Coleti", "Wellington Della Mura"],
+              "timeStart": "17:00",
+              "timeEnd": "18:00",
+              "tracks": ["Design"]
+            },
+			{
+              "name": "Encerramento",
+              "location": "Lab 3 Informática",
+              "description": "TEXTO",
+              "speakerNames": [" TEXTO", " TEXTO"],
+              "timeStart": "17:00",
+              "timeEnd": "19:00",
+              "tracks": ["Tooling"]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+
+  "speakers": [
+    {
+      "name": "Bruno M. N. de Souza",
+      "profilePic": "assets/img/speakers/miguel.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Tamara A. Baldo",
+      "profilePic": "assets/img/speakers/tamara.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Bruno Faiçal",
+      "profilePic": "assets/img/speakers/bruno.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Erikson J. de Aguiar",
+      "profilePic": "assets/img/speakers/erikson.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Juliana Ferri",
+      "profilePic": "assets/img/speakers/juliana.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Giovani B. Penha",
+      "profilePic": "assets/img/speakers/giovani.jpg",
+      "twitter": "",
+      "about": "Cofundador e Diretor de Tecnologia da Veltec Soluções Tecnológicas S.A.",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Carlos dos Santos",
+      "profilePic": "assets/img/speakers/carlos.jpg",
+      "twitter": "",
+      "about": "Sócio fundador da CDS Informática Ltda",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Thiago Coleti",
+      "profilePic": "assets/img/speakers/thiago.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Sandro Tomasetti",
+      "profilePic": "assets/img/speakers/sandro.jpg",
+      "twitter": "",
+      "about": "Game Designer e fundador da Cyber Rhino Studios.",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Amanda Pinheiro",
+      "profilePic": "assets/img/speakers/amanda.jpg",
+      "twitter": "http://www.twitter.com/cdssoftware",
+      "about": "Gerente da PwC Brasil da área de Riscos e Controles no escritório de Curitiba – PR",
+      "location": "ideota",
+      "email": "pessoa@example.com",
+      "phone": "111123"
+    },
+	{
+      "name": "Fernando Rychlewski",
+      "profilePic": "assets/img/speakers/fernando.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Benedito Batista",
+      "profilePic": "assets/img/speakers/benedito.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Rogerio Melfi",
+      "profilePic": "assets/img/speakers/rogerio.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    },
+	{
+      "name": "Wellington Della Mura",
+      "profilePic": "assets/img/speakers/wellington.jpg",
+      "twitter": "",
+      "about": "Sobre a pessoa",
+      "location": "Everywhere",
+      "email": "pessoa@example.com",
+      "phone": "123456467320"
+    }
+  ],
+
+
+  "map": [
+    {
+      "name": "Monona Terrace Convention Center",
+      "lat": 43.071584,
+      "lng": -89.380120,
+      "center": true
+    },
+    {
+      "name": "Ionic HQ",
+      "lat": 43.074395,
+      "lng": -89.381056
+    },
+    {
+      "name": "Afterparty - Brocach Irish Pub",
+      "lat": 43.07336,
+      "lng": -89.38335
+    }
+  ]
+
+}

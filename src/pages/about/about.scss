@@ -1,0 +1,38 @@
+.about-header {
+  width: 100%;
+  min-height: 150px;
+  text-align: center;
+}
+
+.about-header img {
+  max-width: 250px;
+  min-height: 115px;
+  margin-left: -5px;
+  padding: 10px 0 10px 0;
+}
+
+.about-info p {
+  color: #697072;
+  text-align: justify;
+}
+
+.about-info ion-icon {
+  color: color($colors, primary);
+  width: 20px;
+}
+
+.md,
+.wp {
+  .about-info [text-right] {
+    margin-right: 0;
+  }
+}
+
+.ios .about-info {
+  text-align: center;
+}
+
+.ios .about-info ion-icon {
+  width: auto;
+  margin-right: 10px;
+}
